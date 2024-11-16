@@ -1,4 +1,4 @@
-# 📜 Certification Showcase: My Journey into Data Science 🚀
+## 📜 Certification Showcase: My Journey into Data Science 
 
 Welcome to my certification showcase! Each certificate here represents a milestone in my journey to becoming a proficient data scientist. From mastering Python to diving into data analytics and exploring the intricacies of machine learning, these achievements reflect my dedication, continuous learning, and commitment to excellence in the field. 
 
